@@ -1,7 +1,7 @@
 
 # Kidz Logger Creator
 
-Kidz Webhook Spammer is a tool programmed entirely in .bat that let you enter a webhook url to spam it
+Kidz Logger Creator is a tool programmed in python that let you enter a webhook url to create a ip logger that will send the ip to this webhook
 
 
 ## FAQ
