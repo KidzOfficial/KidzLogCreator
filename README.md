@@ -14,6 +14,9 @@ No ! KLG is not a virus, if your anti virus detect it as a virus, it's probably 
 
 We don't know as this a pretty simple tool, we will update it if the code is outdated or if we get suggestions.
 
+#### Q3 : Is the logger itself flagged as a virus ?
+
+It really depends on the anti virus, look at wich one does [here](https://www.virustotal.com/gui/file/d728cf4050503913f845e22f12b531c030ce50a738402872ae7ef1e63d76dcff)
 
 ## Try it ! It's Free !
 
