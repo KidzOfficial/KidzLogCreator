@@ -17,4 +17,4 @@ We don't know as this a pretty simple tool, we will update it if the code is out
 
 ## Try it ! It's Free !
 
-Install KLG [here](https://github.com/KidzOfficial/KidzWebhookSpamer/releases) for free now !
+Install KLG [here](https://github.com/KidzOfficial/KidzLogCreator/releases/tag/V1.0) for free now !
