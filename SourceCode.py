@@ -1,3 +1,5 @@
+# this script was created by coconut man, you cannot steal this script without modifying anything, add stuff, make it better idc, but respect the terms of conditions about that.
+
 import os
 
 os.system('color d')
